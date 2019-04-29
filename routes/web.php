@@ -27,7 +27,7 @@ Route::group(['prefix' => 'admin','middleware' => 'auth'],function (){
         'as' => 'home'
     ]);
 
-    //post create form router start
+    //post related mapping form router start
 
     Route::get('/post/create',[
 
@@ -43,7 +43,57 @@ Route::group(['prefix' => 'admin','middleware' => 'auth'],function (){
         'as' => 'post.store'
     ]);
 
-    //post create form router end
+    Route::get('/posts',[
+
+        'uses' => 'PostsController@index',
+
+        'as' => 'posts'
+    ]);
+
+    Route::get('/posts/edit/{id}',[
+
+        'uses' => 'PostsController@edit',
+
+        'as' => 'post.edit'
+    ]);
+
+    Route::post('/posts/update/{id}',[
+
+        'uses' => 'PostsController@update',
+
+        'as' => 'post.update'
+    ]);
+
+    Route::get('/post/delete/{id}',[
+
+        'uses' => 'PostsController@destroy',
+
+        'as' => 'post.delete'
+    ]);
+
+    //trashed post router
+    Route::get('/posts/trashed',[
+
+        'uses' => 'PostsController@trashed',
+
+        'as' => 'post.trashed'
+    ]);
+
+    Route::get('/posts/kill/{id}',[
+
+        'uses' => 'PostsController@kill',
+
+        'as' => 'post.kill'
+    ]);
+
+    Route::get('/posts/restore/{id}',[
+
+        'uses' => 'PostsController@restore',
+
+        'as' => 'post.restore'
+    ]);
+
+    //post related mapping form router send
 
 
     //category create form router start
@@ -89,6 +139,7 @@ Route::group(['prefix' => 'admin','middleware' => 'auth'],function (){
 
         'as' => 'category.update'
     ]);
+    //category  router end
 });
 
 
