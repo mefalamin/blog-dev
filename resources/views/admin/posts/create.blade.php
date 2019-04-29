@@ -30,6 +30,17 @@
                 </div>
 
                 <div class="form-group">
+                    <label for="category">Select a category</label>
+                    <select id="category" name="category_id" class="form-control">
+                        <option selected="selected" disabled="disabled">Please select a category for this post</option>
+                        @foreach($categories as $category)
+                            <option value="{{$category->id}}">{{ $category->name }}</option>
+                        @endforeach
+                    </select>
+
+                </div>
+
+                <div class="form-group">
                     <label for="content">Content</label>
                     <textarea id="content" cols="5" rows="5" name="content" class="form-control" ></textarea>
 
