@@ -124,15 +124,24 @@
                                 <li class="list-group-item">
                                     <a href="{{ route('user.create') }}">New user</a>
                                 </li>
-                            @endif
 
+                            @endif
                             <li class="list-group-item">
                                 <a href="{{ route('user.profile') }}">My profile</a>
                             </li>
+
+                            @if(Auth::user()->admin)
+
+                                <li class="list-group-item">
+                                    <a href="{{ route('settings') }}">Settings</a>
+                                </li>
+                            @endif
                         </ul>
                     </div>
                 </div>
             @endif
+
+
 
             <div class="col-lg-9">
 

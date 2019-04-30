@@ -15,12 +15,17 @@ Route::get('/test',function(){
 
     $user = App\User::find(1);
     dd($user->profile->avatar);
-   // return App\Profile::find(1)->user;
+    // return App\Profile::find(1)->user;
 });
 
-Route::get('/', function () {
-    return view('welcome');
-});
+/*front end routers*/
+
+Route::get('/',
+    [
+        'uses' => 'FrontEndController@index',
+        'as' => 'index'
+    ]
+);
 
 Auth::routes();
 
@@ -257,6 +262,20 @@ Route::group(['prefix' => 'admin','middleware' => 'auth'],function (){
 
     /*user profile router end*/
 
+
+    Route::get('/settings',[
+
+        'uses' => 'SettingsController@index',
+        'as' => 'settings'
+
+    ]);
+
+    Route::post('/settings/update',[
+
+        'uses' => 'SettingsController@update',
+        'as' => 'settings.update'
+
+    ]);
 
 });
 
