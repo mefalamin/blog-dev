@@ -5,7 +5,7 @@
     <div class="card">
 
         <div class="card-header">
-            Posts
+           Published posts
         </div>
         <div class="card-body">
             <table class="table table-hover">
@@ -22,7 +22,7 @@
 
                     @foreach($posts as $post)
 
-                        <tr>
+                      <tr>
                             <td><img src="{{ $post->featured }}" class="img-responsive" width="50px" height="50px"> </td>
                             <td>{{ $post->title}}</td>
                             <td>  <a href="{{ route('post.edit',['id' => $post->id]) }}" class="btn btn-sm btn-info"><span class="fa fa-pencil"></span> </a></td>
@@ -35,7 +35,7 @@
 
                     <tr>
                         <th colspan="5" class="text-center">
-                            No published  post
+                            No post yet
                         </th>
                     </tr>
 

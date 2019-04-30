@@ -43,11 +43,11 @@
                     <label for="tags">Select tags</label>
                     @foreach($tags as $tag)
 
-                      <div class="checkbox">
-                          <label>  <input type="checkbox" name="tags[]" value="{{ $tag->id }}">
-                          {{ $tag->tag }}
-                          </label>
-                      </div>
+                        <div class="checkbox">
+                            <label>  <input type="checkbox" name="tags[]" value="{{ $tag->id }}">
+                                {{ $tag->tag }}
+                            </label>
+                        </div>
 
                     @endforeach
                 </div>
@@ -68,7 +68,17 @@
 
     </div>
 
-
-
 @endsection
 
+
+@section('style')
+   {{-- <link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.11/summernote.css" rel="stylesheet">--}}
+   {{-- <link href="https://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.11/summernote-bs4.css" rel="stylesheet">--}}
+@endsection
+
+@section('scripts')
+    <script src="https://cloud.tinymce.com/5/tinymce.min.js"></script>
+    <script>
+        tinymce.init({selector:'textarea'});
+    </script>
+@endsection
