@@ -5,26 +5,26 @@
     <div class="card">
 
         <div class="card-header">
-            Categories
+            Tags
         </div>
         <div class="card-body">
             <table class="table table-hover">
 
                 <thead>
-                <th>Category name</th>
+                <th>Tag name</th>
                 <th> Editing </th>
                 <th>Deleting</th>
                 </thead>
 
                 <tbody>
-                @if($categories->count() > 0)
+                @if($tags->count() > 0)
 
-                    @foreach($categories as $category)
+                    @foreach($tags as $tag)
 
                         <tr>
-                            <td>{{ $category->name }}</td>
-                            <td>  <a href="{{ route('category.edit',['id' => $category->id]) }}" class="btn btn-xs btn-info"><span class="fa fa-pencil"></span> </a></td>
-                            <td>  <a href="{{ route('category.delete',['id' => $category->id]) }}" class="btn btn-xs btn-danger">x</a></td>
+                            <td>{{ $tag->tag }}</td>
+                            <td>  <a href="{{ route('tag.edit',['id' => $tag->id]) }}" class="btn btn-xs btn-info"><span class="fa fa-pencil"></span> </a></td>
+                            <td>  <a href="{{ route('tag.delete',['id' => $tag->id]) }}" class="btn btn-xs btn-danger">x</a></td>
 
                         </tr>
 
@@ -34,7 +34,7 @@
 
                     <tr>
                         <th colspan="5" class="text-center">
-                            No categories yet
+                            No Tags yet
                         </th>
                     </tr>
 

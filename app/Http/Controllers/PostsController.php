@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Post;
+use App\Tag;
 use Illuminate\Http\Request;
 use App\Category;
 use  Session;
@@ -34,7 +35,7 @@ class PostsController extends Controller
             return redirect()->back();
         }
 
-        return view ('admin.posts.create')->with('categories',$category);
+        return view ('admin.posts.create')->with('categories',$category)->with('tags',Tag::all());
     }
 
     /**
@@ -52,7 +53,8 @@ class PostsController extends Controller
             'title' => 'required | min:5',
             'featured' => 'required | image',
             'content' => 'required | ',
-            'category_id' => 'required'
+            'category_id' => 'required',
+            'tags' => 'required'
             ],
             //for custom validation message
             [
@@ -75,6 +77,8 @@ class PostsController extends Controller
             'category_id' => $request->category_id,
             'slug' => str_slug($request->title)
         ]);
+
+        $post->tags()->attach($request->tags);
 
         Session::flash('success','Post created successfully');
 
@@ -103,7 +107,7 @@ class PostsController extends Controller
     {
         $post = Post::find($id);
 
-        return view('admin.posts.edit')->with('post',$post)->with('categories',Category::all());
+        return view('admin.posts.edit')->with('post',$post)->with('categories',Category::all())->with('tags',Tag::all());
     }
 
     /**
@@ -120,7 +124,8 @@ class PostsController extends Controller
 
             'title' => 'required | min:5',
             'content' => 'required | ',
-            'category_id' => 'required'
+            'category_id' => 'required',
+            'tags' => 'required'
         ],
             //for custom validation message
             [
@@ -147,6 +152,8 @@ class PostsController extends Controller
         $post->content = $request->content;
         $post->category_id = $request->category_id;
         $post->save();
+
+        $post->tags()->sync($request->tags);
 
         Session::flash('success','Post updated successfully');
 

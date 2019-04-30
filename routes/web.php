@@ -11,6 +11,11 @@
 |
 */
 
+Route::get('/test',function(){
+
+        return App\Post::find(4)->tags;
+});
+
 Route::get('/', function () {
     return view('welcome');
 });
@@ -140,6 +145,49 @@ Route::group(['prefix' => 'admin','middleware' => 'auth'],function (){
         'as' => 'category.update'
     ]);
     //category  router end
+
+
+    /*tag router start*/
+
+    Route::get('/tags',[
+
+        'uses' => 'TagsController@index',
+        'as' => 'tags'
+    ]);
+
+    Route::get('/tags/create',[
+
+        'uses' => 'TagsController@create',
+        'as' => 'tag.create'
+    ]);
+
+    Route::post('/tag/store',[
+
+        'uses' => 'TagsController@store',
+        'as' => 'tag.store'
+    ]);
+
+
+    Route::get('/tag/edit/{id}',[
+
+        'uses' => 'TagsController@edit',
+        'as' => 'tag.edit'
+    ]);
+
+    Route::post('/tag/updates/{id}',[
+
+        'uses' => 'TagsController@update',
+        'as' => 'tag.update'
+    ]);
+
+    Route::get('/tag/delete/{id}',[
+
+        'uses' => 'TagsController@destroy',
+        'as' => 'tag.delete'
+    ]);
+
+
+    /*tag router end*/
 });
 
 
