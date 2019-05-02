@@ -86,7 +86,7 @@
 
                 <div class="form-group">
                     <label for="content">Content</label>
-                    <textarea id="content" cols="5" rows="5" name="content" class="form-control" >{{$post->content}}</textarea>
+                    <textarea id="content" cols="5" rows="5" name="content" class="form-control" >{{$post->content}} </textarea>
 
                 </div>
 
@@ -104,3 +104,15 @@
 
 @endsection
 
+
+@section('scripts')
+
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
+    <script>
+        tinymce.init({
+            selector: '#content'
+        });
+    </script>
+
+
+    @endsection
