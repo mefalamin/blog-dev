@@ -16,10 +16,6 @@ class User extends Authenticatable
      * @var array
      */
 
-    public function profile(){
-       return $this->hasOne('App\Profile');
-    }
-
     protected $fillable = [
         'name', 'email', 'password','admin'
     ];
@@ -41,4 +37,15 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+
+    //defining relationship with user and profile
+
+    public function profile(){
+        return $this->hasOne('App\Profile');
+    }
+
+    public function posts(){
+        return $this->hasMany('App\Post');
+    }
 }
