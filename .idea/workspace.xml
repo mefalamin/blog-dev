@@ -2,287 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ace87b18-a821-4bb3-900b-519df54c2f04" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/fonts/fontawesome-webfont3295.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/fonts/fontawesome-webfont3295.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/fonts/fontawesome-webfont3295.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/fonts/fontawesome-webfont3295.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/fonts/fontawesome-webfontd41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/fonts/seosightbe82.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/fonts/seosightbe82.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/404-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/amex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/analysis.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/avatar-b-details.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/avatar-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/avatar1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/avatar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/avatar3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/avatar4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/avatar5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/avatar6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/avatar7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/avatar9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/background-element.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/bg-boxed-black.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/bg-boxed-blue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/bg-boxed-dark.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/bg-boxed-light.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/bg-boxed-primary.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/bg-boxed-red.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/blog-details-author.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/blog-details.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/book1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/book2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/book3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/book4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/book5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/book6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/book7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/book8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/book9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/cart-product4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/cart-product5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/cart-product6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/case1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/case2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/case3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/case4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/case5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/case6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/case7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/case8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client-white1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client-white2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client-white3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client-white4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client-white5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client-white6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client1-hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client2-hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client3-hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client4-hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client5-hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/client6-hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/contact4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/contact5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/contact6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/contact7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/contact8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/contact9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/description-mac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/description1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/discover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/elements.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/eye.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/features1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/features2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/features3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/features4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/features5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/features6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/google-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/info-box9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/load-more-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/load-more-line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/local-seo-main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/local-seo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/local-seo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/local-seo3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/logo-eye.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/mac-book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/marketing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/mastercard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/menu-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/mountain1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/mountain2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/offers1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-blue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-breez.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-brown.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-gray.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-green.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-lightblue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-lightgray.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-lightviolet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-lime.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-olive.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-orange.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-red.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-rose.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pattern-bg-violet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pay-pal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/photo-elements1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/photo-elements2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/photo-elements3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/photo-elements4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/photo-elements5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/post-author1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/post-author2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/post-author3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/post1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/post2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/post3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/post4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/ppc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pricing-dots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pricing1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pricing2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/pricing3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/product-details.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/product-solution.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/profit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/request.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/results-ver2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/reviews-avatar1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/reviews-avatar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/reviews-avatar3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/seo-analysis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/seoscore1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/seoscore2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/seoscore3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/services1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/services2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/services3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/services4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/services5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/slider-photo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/slider-photo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/slider-photo3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/slider-photo4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/slider-photo5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/slider1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/slider2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/slider3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/slider4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/slider5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/social-photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/social-photo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/solutions.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/stunning-header-photo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/stunning-header-photo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/stunning-header-photo3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/stunning-header-photo4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/stunning-header-photo5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/stunning-header-photo6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/subscr-gear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/subscr-mailopen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/subscr1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/teammember1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/teammember2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/teammember3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/teammember4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/testimonial-author1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/testimonial-author2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/testimonial1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/testimonial2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/time-line-thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/video-format.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/video2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/avatar/15568257171.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/avatar/1556825952avatar3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/1556653834laravel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/1556653897wordpress.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/1556654072ruby.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/1556654878wordpress.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/1556654895ruby.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/1556776106laravel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/1556776144wordpress.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/1556776245js.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/1556776516ruby.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/15567765956.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/15567766394.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/15567776761.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/15567777142.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/15567783393.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/15567784336.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/posts/15567788003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/FrontEndController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/SettingsController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Setting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_30_172523_create_settings_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_05_02_185326_insert_user_id_column.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/SettingsTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/crumina-fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/custom-styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/jquery.mCustomScrollbar.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/mCSB_buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/magnific-popup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/primary-menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/swiper.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/fonts/fontawesome-webfont3295.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/fonts/seosightbe82.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/.directory" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/ScrollMagic.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/ajax-pagination.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/animation.velocity.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/crum-mega-menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/donut-chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/isotope.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/jquery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/swiper.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/theme-plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/time-line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/velocity.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/svg/circle-facebook.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/svg/google.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/svg/rss.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/svg/twitter.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/svg/video-control.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/svg/youtube.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/uploads/avatar/.directory" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/include/subscribe.blade.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/blog.iml" afterPath="$PROJECT_DIR$/.idea/blog.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/frontend.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/frontend.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -788,7 +508,7 @@
       <workItem from="1556694233694" duration="1145000" />
       <workItem from="1556774572849" duration="31747000" />
       <workItem from="1556860487964" duration="3345000" />
-      <workItem from="1556890740101" duration="11866000" />
+      <workItem from="1556890740101" duration="11921000" />
     </task>
     <task id="LOCAL-00001" summary="post create form validation">
       <created>1556477980675</created>
@@ -839,11 +559,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556827060679</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="subscribing mail added , dashboard added">
+      <created>1556909024878</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556909024878</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134214000" />
+    <option name="totallyTimeSpent" value="134269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="738" extended-state="6" />
@@ -885,7 +612,8 @@
     <MESSAGE value="Generated Dynamic content of front end" />
     <MESSAGE value="Frontend generated, disqus added, tags in below added" />
     <MESSAGE value="completed the addthis dashboard, category,tag wise show" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed the addthis dashboard, category,tag wise show" />
+    <MESSAGE value="subscribing mail added , dashboard added" />
+    <option name="LAST_COMMIT_MESSAGE" value="subscribing mail added , dashboard added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
