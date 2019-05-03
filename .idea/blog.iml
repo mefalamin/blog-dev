@@ -9,6 +9,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/instantiator" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/drewm/mailchimp-api" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/egulias/email-validator" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/erusev/parsedown" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/fideloper/proxy" />
@@ -57,6 +58,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/recursion-context" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/resource-operations" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/spatie/laravel-newsletter" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/swiftmailer/swiftmailer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/console" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/contracts" />
@@ -114,6 +116,7 @@
           <root url="file://$MODULE_DIR$/vendor/doctrine/instantiator" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
           <root url="file://$MODULE_DIR$/vendor/dragonmantank/cron-expression" />
+          <root url="file://$MODULE_DIR$/vendor/drewm/mailchimp-api" />
           <root url="file://$MODULE_DIR$/vendor/egulias/email-validator" />
           <root url="file://$MODULE_DIR$/vendor/erusev/parsedown" />
           <root url="file://$MODULE_DIR$/vendor/fideloper/proxy" />
@@ -162,6 +165,7 @@
           <root url="file://$MODULE_DIR$/vendor/sebastian/recursion-context" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/resource-operations" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/vendor/spatie/laravel-newsletter" />
           <root url="file://$MODULE_DIR$/vendor/swiftmailer/swiftmailer" />
           <root url="file://$MODULE_DIR$/vendor/symfony/console" />
           <root url="file://$MODULE_DIR$/vendor/symfony/contracts" />
@@ -193,6 +197,7 @@
           <root url="file://$MODULE_DIR$/vendor/doctrine/instantiator" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
           <root url="file://$MODULE_DIR$/vendor/dragonmantank/cron-expression" />
+          <root url="file://$MODULE_DIR$/vendor/drewm/mailchimp-api" />
           <root url="file://$MODULE_DIR$/vendor/egulias/email-validator" />
           <root url="file://$MODULE_DIR$/vendor/erusev/parsedown" />
           <root url="file://$MODULE_DIR$/vendor/fideloper/proxy" />
@@ -241,6 +246,7 @@
           <root url="file://$MODULE_DIR$/vendor/sebastian/recursion-context" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/resource-operations" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/vendor/spatie/laravel-newsletter" />
           <root url="file://$MODULE_DIR$/vendor/swiftmailer/swiftmailer" />
           <root url="file://$MODULE_DIR$/vendor/symfony/console" />
           <root url="file://$MODULE_DIR$/vendor/symfony/contracts" />

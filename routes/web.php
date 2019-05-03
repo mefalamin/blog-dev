@@ -1,5 +1,7 @@
 <?php
 
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,9 +15,11 @@
 
 Route::get('/test',function(){
 
-    $user = App\User::find(1);
-    dd($user->profile->avatar);
+    /*$user = App\User::find(1);
+    dd($user->profile->avatar);*/
     // return App\Profile::find(1)->user;
+
+
 });
 
 /*front end routers*/
@@ -48,6 +52,7 @@ Route::get('/tag/{id}',[
 
 ]);
 
+//search route
 Route::get('/results',function (){
 
     $posts = \App\Post::where('title' , 'like', '%' . request('query') . '%')->get();
@@ -65,13 +70,28 @@ Route::get('/results',function (){
 });
 
 
+//subscribe route
+
+Route::post('/subscribe',function () {
+
+   // dd(request('email'));
+    $email = request('email');
+
+    Newsletter::subscribe($email);
+
+    Session::flash('success','Subscribed Successfully');
+    return redirect()->back();
+
+});
+
+
 Auth::routes();
 
 
 
 Route::group(['prefix' => 'admin','middleware' => 'auth'],function (){
 
-    Route::get('/home',[
+    Route::get('/dashboard',[
 
         'uses' => 'HomeController@index',
         'as' => 'home'
