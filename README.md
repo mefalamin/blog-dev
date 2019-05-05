@@ -16,24 +16,47 @@ Laravel's Blog is a dynamic blog site which is built using [Laravel 5.8](https:/
 ```console
 git clone https://github.com/mefalamin/blog-dev
 ```
+
+
+
+
+
 * Go to the directory
 ```console
 cd blog-dev
+```
+
+
+
+* Before running the migration create a database in your mysql server and change the username,password in the .env file in the root of blog-dev folder
+```
+DB_DATABASE=
+DB_USERNAME=
+DB_PASSWORD=
 ```
 
 * Run the database migration
 ```console
 php artisan migrate
 ```
+
+
+
 * Seed the database
 ```console
 php artisan db:seed
 ```
+
+
+
 * Finally run the application
 ```console
 php artisan serve
 ```
 
+
+
+
 ### License
 
-The main site  template is for personal use only.If you want to use it commercially please buy and support the developers.The rest of the code of this application is free :blush:
+The main site  template is for personal use only.If you want to use it commercially please buy and support the developers.The rest of the code of used in this application is free :blush:
