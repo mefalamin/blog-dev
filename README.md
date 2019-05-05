@@ -11,28 +11,42 @@ Laravel's Blog is a dynamic blog site which is built using [Laravel 5.8](https:/
 
 ### Instructions
 
+##### Windows users:
 
-* Clone this repository
+- Download wamp: http://www.wampserver.com/en/
+- Download and extract cmder mini: https://github.com/cmderdev/cmder/releases/download/v1.1.4.1/cmder_mini.zip
+- Update windows environment variable path to point to your php install folder (inside wamp installation dir) (here is how you can do this http://stackoverflow.com/questions/17727436/how-to-properly-set-php-environment-variable-to-run-commands-in-git-bash)
+
+cmder will be refered as console
+
+
+##### Mac Os, Ubuntu and Windows users continue here:
+
+* Create a database locally named 'whatever you want'
+
+* Download composer https://getcomposer.org/download/
+
+* Pull this project using command below
 ```console
 git clone https://github.com/mefalamin/blog-dev
 ```
-
-
-
-
-
 * Go to the directory
 ```console
 cd blog-dev
 ```
 
+* Rename .env.example file to .envinside your project root and fill the database information. (windows wont let you do it, so you have to open your console cd your project root directory and run mv .env.example .env )
 
 
-* Before running the migration create a database in your mysql server and change the username,password in the .env file in the root of blog-dev folder
+
+* Install packages using composer
+```console
+composer install
 ```
-DB_DATABASE=
-DB_USERNAME=
-DB_PASSWORD=
+
+* Generate a key for the application
+```console
+php artisan key:generate
 ```
 
 * Run the database migration
@@ -40,23 +54,21 @@ DB_PASSWORD=
 php artisan migrate
 ```
 
-
-
 * Seed the database
 ```console
 php artisan db:seed
 ```
 
-
-
-* Finally run the application
+* Finally fire up the server
 ```console
 php artisan serve
 ```
 
+#####You can now access the application at localhost:8000 :thumbsup:
 
+#### Screenshots
 
-
+<img src="/screenshot/blog.gif" />
 ### License
 
 The main site  template is for personal use only.If you want to use it commercially please buy and support the developers.The rest of the code of used in this application is free :blush:
