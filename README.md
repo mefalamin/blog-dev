@@ -3,15 +3,15 @@
 
 Laravel's Blog is a dynamic blog site which is built using [Laravel 5.8](https://laravel.com/)  framework.This project was built my me covering the [udemy](https://www.udemy.com/best-laravel/) course.It will be helpful for those who wants to start learning :beginner: and understand the features of Laravel framework.
 
-### Requirements for running
+## Requirements for running
 
 * [PHP 7](https://www.php.net/)
 * [Composer](https://getcomposer.org/)
 * [MySQL](https://www.mysql.com/)
 
-### Instructions
+## Instructions
 
-##### Windows users:
+#### Windows users:
 
 - Download wamp: http://www.wampserver.com/en/
 - Download and extract cmder mini: https://github.com/cmderdev/cmder/releases/download/v1.1.4.1/cmder_mini.zip
@@ -20,7 +20,7 @@ Laravel's Blog is a dynamic blog site which is built using [Laravel 5.8](https:/
 cmder will be refered as console
 
 
-##### Mac Os, Ubuntu and Windows users continue here:
+#### Mac Os, Ubuntu and Windows users continue here:
 
 * Create a database locally named 'whatever you want'
 
@@ -69,6 +69,7 @@ php artisan serve
 #### Screenshots
 
 <img src="/screenshot/blog.gif" />
+
 ### License
 
-The main site  template is for personal use only.If you want to use it commercially please buy and support the developers.The rest of the code of used in this application is free :blush:
+The main site  template is for personal use only.If you want to use it commercially please buy and support the developers.The rest of the code used in this application is free :blush:
